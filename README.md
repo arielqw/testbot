@@ -16,7 +16,7 @@ http://youtu.be/yp-zrAk1NR4
 <h1>Currently tested on (working on):</h1>
 OSX 10.9.5 <br>
 Ubunto 12.04 <br>
-Windows 7 <br>
+Windows 7, 8.1 <br>
 
 <h1>Usage</h1>
 1. make sure you have node js and gcc installed on your machine
