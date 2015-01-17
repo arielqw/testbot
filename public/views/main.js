@@ -41,7 +41,8 @@ angular.module('myApp.main', ['ngRoute'])
                 var lines = data.substr(from+4,to-3).split('\n')+"";
                 var resultsArr = lines.split(',');
                 var resultsFormatted = "";
-                for(var i=1; i< resultsArr.length-1; i++){
+                for(var i=0; i< resultsArr.length; i++){
+					if(!resultsArr[i]) continue;
                     var preName = resultsArr[i].indexOf("(\"");
                     var postName = resultsArr[i].indexOf("\")");
                     if(preName!= -1){
