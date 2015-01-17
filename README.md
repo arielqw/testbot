@@ -32,6 +32,17 @@ Windows 7, 8.1 <br>
 9. you will see the progress and you can press any test to view specified details
 
 
+<h1>The MIT License (MIT)</h1>
+
+Copyright (c) 2015 Ariel Baruch
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 ** NOTE:
 Please share tests @ our Dropbox at 
 Dropbox/מדעי המחשב שנה א 2013/סמסטר ה/קומפילציה/Compiler/tests
@@ -76,5 +87,3 @@ A little explanation on what's going on
     note that all of the directories can be modified using the 'configuration' tab.
 
     Happy testing.
-# testbot
-# testbot
