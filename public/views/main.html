@@ -1,0 +1,10 @@
+<div class="container-fluid">
+
+    <div  style="float:right">
+        <button class="btn btn-success btn-lg" ng-click="generate()">Run Tests</button>
+        <button class="btn btn-warning btn-lg" ng-click="download()">Save log</button>
+    </div>
+    <h2>Log:</h2>
+    <pre class="testbot_log" ng-bind-html="format(output)">{{format(output)}}</pre>
+
+</div>

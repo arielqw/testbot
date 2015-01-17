@@ -1,0 +1,36 @@
+<script src="./lib/run_prettify.js"></script>
+<?prettify?>
+
+<div class="container">
+
+
+    <h2>Details of '{{filename}}' test</h2>
+
+    <div class="container" style="width:100% !important">
+
+        <div class="row">
+            <div class="col-md-6">
+                <h1>Scheme petite's output:</h1>
+                <pre>{{petiteOut}}</pre>
+            </div>
+            <div class="col-md-6">
+                <h1>Compiler's output:</h1>
+
+                <pre>{{codegenOutput}}</pre>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h1>Test File:</h1>
+                <pre>{{testFile}}</pre>
+            </div>
+            <div class="col-md-6">
+                <h1>codegen .c file:</h1>
+                <pre>{{cFile}}</pre>
+            </div>
+        </div>
+
+
+    </div>
+  </div>

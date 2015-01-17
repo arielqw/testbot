@@ -1,0 +1,23 @@
+<div class="container">
+
+    <h2>You can configure some run parameters here: </h2>
+    <br>
+
+    <input ng-model=params.TESTS_PATH type="text"> - TESTS_PATH - Relative path to tests .scm files directory
+    <br><br>
+    <input ng-model=params.OUTPUTS_PATH type="text"> - OUTPUTS_PATH - Relative path to petite valid outputs directory
+    <br><br>
+    <input ng-model=params.CODEGEN_PATH type="text"> - CODEGEN_PATH - Relative path to code-gen output .c files directory
+    <br><br>
+    <input ng-model=params.CODEGEN_EXE_PATH type="text"> - CODEGEN_EXE_PATH - Relative path to compile-scheme-file .o files directory
+    <br><br>
+    <input ng-model=params.CODEGEN_OUTPUT_PATH type="text"> - CODEGEN_OUTPUT_PATH - Relative path to code-gen results of running .o files directory
+    <br><br>
+    <input ng-model=params.compilerDirectoryPath type="text"> - compilerDirectoryPath - Relative path to directory where compiler.scm is
+
+    <br><br>
+    <div  style="float:left">
+        <button class="btn btn-success btn-lg" ng-click="save()">Save configuration</button>
+    </div>
+
+</div>
