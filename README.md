@@ -8,7 +8,7 @@ http://www.cs.bgu.ac.il/~comp151/
 A video tutorial is avaiable here:
 http://youtu.be/yp-zrAk1NR4
 
-<h1>Requirments</h1>
+<h1>Requirements</h1>
 <a href='http://nodejs.org/'>Node js</a><br>
 <a href='https://gcc.gnu.org/'>gcc</a><br>
 <a href='http://scheme.com/'>chez-scheme petite</a>
